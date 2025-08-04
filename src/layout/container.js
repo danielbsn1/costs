@@ -3,4 +3,4 @@ function container  (props) {
   return  <div className={styles.container}>{props.children} </div> 
 }
 
-export default container
+export default container ;
